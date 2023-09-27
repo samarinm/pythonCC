@@ -8,7 +8,8 @@ Find the course description in the programme of [Transferable Skills](https://fo
 
 * Friday, 22 September: Upload notebooks of first week: "2-Data_Structures", "3-Conditional_Statements", "4-Iterations", and "5-Plotting".
 * Tuesday afternoon, 26 September: Upload solutions of first day.
-* *Wednesday afternoon, 27 September: Solutions of second day to be uploaded.*
+* Wednesday afternoon, 27 September: Upload solutions of second day.
+* *Friday afternoon, 29 September: Notebooks of second week to be uploaded.*
 
 
 ## Set up Python
