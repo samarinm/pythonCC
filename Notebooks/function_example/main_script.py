@@ -1,7 +1,6 @@
 # This is the script you would execute, like
 #    python main_script.py
 
-
 # Let us import some functions you wrote in
 # auxiliary_functions.py
 import auxiliary_functions
