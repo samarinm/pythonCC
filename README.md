@@ -1,18 +1,12 @@
 # Python Crash Course
 
-This repository provides the material covered in the Python Crash Course (26th, 27th September and 3rd,  4th October 2023) offered in the Transferable Skills programme at the University of Basel.
+This repository provides the material for the Python Crash Course (4th, 5th, 11th, and 12th March 2024) offered in the Transferable Skills programme of the University of Basel.
 
-Find the course description in the programme of [Transferable Skills](https://fortbildung.unibas.ch/courses/organizer/transferable-skills/python-crash-course-for-beginners-296877).
+Find the course description in the programme of [Transferable Skills](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/python-crash-course-for-beginners-298317).
 
 ## Updates
 
-* Friday, 22 September: Upload notebooks of first week: "2-Data_Structures", "3-Conditional_Statements", "4-Iterations", and "5-Plotting".
-* Tuesday afternoon, 26 September: Upload solutions of first day.
-* Wednesday afternoon, 27 September: Upload solutions of second day.
-* Friday afternoon, 29 September: Upload notebooks of second week.
-* Tuesday afternoon, 3 October: Upload solutions of third day.
-* Wednesday afternoon, 4 October: Upload all course material.
-
+* _Friday, 1 March: Notebooks of first week to be uploaded._
 
 ## Set up Python
 
