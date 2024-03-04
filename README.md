@@ -7,7 +7,8 @@ Find the course description in the programme of [Transferable Skills](https://fo
 ## Updates
 
 * Friday, 1 March: Upload notebooks of first week: "2-Data_Structures", "3-Conditional_Statements", "4-Iterations", and "5-Plotting".
-* _Monday, 4 March: Solutions of first day to be uploaded._
+* Monday, 4 March: Update of notebooks (with some solutions) after first day.
+* _Tuesday, 5 March: Solutions of second day to be uploaded._
 
 ## Set up Python
 
