@@ -9,8 +9,8 @@ Find the course description in the programme of [Transferable Skills](https://fo
 * Friday, 1 March: Upload notebooks of first week: "2-Data_Structures", "3-Conditional_Statements", "4-Iterations", and "5-Plotting".
 * Monday, 4 March: Update of notebooks (with some solutions) after first day.
 * Tuesday, 5 March: Update of notebooks (with some solutions) after second day.
-* _Friday, 8 March: Notebooks of second week to be uploaded._
-
+* Friday, 8 March: Upload notebooks and additional material of second week: "6-Numpy_Pandas", "7-Subroutines_and_OOP", "8-Advanced_Examples", "9-Exercises", as well as directories "advanced_example_scripts" and "function_example".
+* _Monday, 11 March: Updates after third course day to be uploaded._
 
 ## Set up Python
 
