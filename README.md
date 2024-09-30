@@ -7,7 +7,8 @@ Find the course description in the programme of [Transferable Skills](https://fo
 ## Updates
 
 * Friday, 27 September: Upload notebooks of first week.
-* *Monday, 30 September: Upload solutions of first day.*
+* Monday, 30 September: Upload solutions of first day.
+* *Tuesday, 1 October: Upload solutions of second day.*
 
 ## Set up Python
 
