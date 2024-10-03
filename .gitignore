@@ -9,6 +9,12 @@
 /Notebooks/images/.ipynb_checkpoints/*
 /Notebooks/images/class_person_illustration/*
 /Notebooks/images/person_class_illustration.pptx
+!/Notebooks/advanced_example_scripts/
+/Notebooks/advanced_example_scripts/.DS_Store
+/Notebooks/advanced_example_scripts/.ipynb_checkpoints/*
+!/Notebooks/function_example/
+/Notebooks/function_example/.DS_Store
+/Notebooks/function_example/.ipynb_checkpoints/*
 !/Notebooks/data/
 /Notebooks/data/.DS_Store
 /Notebooks/data/.ipynb_checkpoints/*
@@ -18,6 +24,11 @@
 !/Notebooks/3-Conditional_Statements.ipynb
 !/Notebooks/4-Iterations.ipynb
 !/Notebooks/5-Plotting.ipynb
+!/Notebooks/6-Numpy_Pandas.ipynb
+!/Notebooks/7-Subroutines_and_OOP.ipynb
+!/Notebooks/8-Advanced_Examples.ipynb
+!/Notebooks/9-Exercises.ipynb
+!/Notebooks/10-Download_your_Notebooks.ipynb
 !/Notebooks/Class_1-Variables_and_Arithmetic.ipynb
 !/Notebooks/Class_2-Data_Structures.ipynb
 !/Notebooks/Class_3-Conditional_Statements.ipynb
