@@ -7,7 +7,7 @@ Find the course description in the programme of [Transferable Skills](https://fo
 ## Updates
 
 * Friday, 21 February: Upload notebooks of first week.
-* 
+
 ## Set up Python
 
 In order to set up Python on your own machine, I recommend using [Anaconda](https://www.anaconda.com/products/individual). Follow the steps outlined in my [YouTube instruction video](https://youtu.be/-RJnYbxVZTg) to install Python and getting started with the Jupyter notebooks.
