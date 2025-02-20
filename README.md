@@ -7,6 +7,7 @@ Find the course description in the programme of [Transferable Skills](https://fo
 ## Updates
 
 * Friday, 21 February: Upload notebooks of first week.
+* *Monday, 23 February: Upload course notebook adjustments and solutions after the first day.*
 
 ## Set up Python
 
