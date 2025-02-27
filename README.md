@@ -1,8 +1,8 @@
 # Python Crash Course
 
-This repository provides the material for the Python Crash Course (24th and 25th February, 3rd and 4th March 2025) offered in the Transferable Skills programme of the University of Basel.
+Find here the course material for the Python Crash Course (24th and 25th February, 3rd and 4th March 2025) offered in the Transferable Skills programme ([course description](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/python-crash-course-for-beginners-300499)) of the University of Basel.
 
-Find the course description in the programme of [Transferable Skills](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/python-crash-course-for-beginners-300499).
+Do you want to immediately dive into the course material? Check out [Renkulab](https://renkulab.io/v2/projects/samarinm/python-crash-course) and click "Launch" to run the notebooks without any installation!
 
 ## Updates
 
@@ -17,7 +17,7 @@ Find the course description in the programme of [Transferable Skills](https://fo
 
 In order to set up Python on your own machine, I recommend using [Anaconda](https://www.anaconda.com/products/individual). Follow the steps outlined in my [YouTube instruction video](https://youtu.be/-RJnYbxVZTg) to install Python and getting started with the Jupyter notebooks.
 
-If you are more advanced and/or Anaconda is already set up on your machine, you can create a new environment with the necessary libraries through
+If you are more advanced and/or Anaconda is already set up on your machine, open up a terminal and create a new environment with the necessary libraries through
 
 ```
 conda env create -f environment.yml

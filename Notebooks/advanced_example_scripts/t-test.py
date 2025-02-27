@@ -1,4 +1,4 @@
-# Python Crash Course, 07.10.24
+# Python Crash Course, 03.03.25
 # Author: Maxim Samarin
 #
 # One sample t-test
