@@ -4,9 +4,11 @@ Find here the course material for the Python Crash Course (24th and 25th Februar
 
 Do you want to immediately dive into the course material? Check out [Renku lab](https://renkulab.io/v2/projects/samarinm/python-crash-course) and click "Launch" to run the notebooks without any installation!
 
-<a href="https://renkulab.io/v2/projects/samarinm/python-crash-course">
-    <center><img src="Notebooks/images/renku.jpg" alt="Description of Image" width="200" class="center-img"></center>
-</a>
+<div style="display: grid; place-items: center;">
+    <a href="https://renkulab.io/v2/projects/samarinm/python-crash-course">
+        <img src="Notebooks/images/renku.jpg" alt="Description of Image" width="200" class="center-img">
+    </a>
+</div>
 
 ## Updates
 
