@@ -15,7 +15,8 @@ Do you want to immediately dive into the course material? Check out [Renku lab](
 * Friday, 19 September: Upload notebooks of first week.
 * Monday, 22 September: Update course material after first course day.
 * Tuesday, 23 September: Update course material after second course day.
-* *Friday, 26 September: Upload notebooks of second week.*
+* Friday, 26 September: Upload notebooks of second week.
+* *Monday, 29 September: Update course material after third course day.*
 
 ## Set up Python
 
