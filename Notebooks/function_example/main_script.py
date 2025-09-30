@@ -51,19 +51,19 @@ print("Output of num_sign auxiliary function for", my_number, ":", my_number_sig
 # between the function part and the 
 # "main" part of the script
 # if __name__ == '__main__':
-
+#
 # 	my_number = 5
-
+#
 # 	the_result = square_number(my_number)
-
+#
 # 	print("The result of", my_number, "squared is", the_result)
-
+#
 # 	odd_number(my_number)
-
+#
 # 	my_number_x10 = auxiliary_functions.tentimes(my_number)
-
+#
 # 	print("Output of tentimes auxiliary function for", my_number, ":", my_number_x10)
-
+#
 # 	my_number_sign = auxiliary_functions.num_sign(my_number)
-
+#
 # 	print("Output of num_sign auxiliary function for", my_number, ":", my_number_sign)
