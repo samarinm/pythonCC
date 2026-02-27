@@ -12,8 +12,8 @@ Do you want to immediately dive into the course material? Check out [Renku lab](
 
 ## Updates
 
-* *Friday, 27th February: Upload notebooks of first week.*
-
+* Friday, 27th February: Upload notebooks of first week.
+* *Monday, 2nd March: Upload updated material after first course day.*
 
 
 ## Set up Python
