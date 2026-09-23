@@ -1,6 +1,6 @@
 # Python Crash Course
 
-Find here the course material for the Python Crash Course (2nd, 3rd, 9th, and 10th March 2026) offered in the Transferable Skills programme ([course description](https://fortbildung.unibas.ch/courses/topics/dissertation/python-crash-course-for-beginners-302421)) of the University of Basel.
+Find here the course material for the Python Crash Course (5th, 6th, 12th, and 13th October 2026) offered in the Transferable Skills programme ([course description](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/python-crash-course-for-beginners-303383)) of the University of Basel.
 
 Do you want to immediately dive into the course material? Check out [Renku lab](https://renkulab.io/v2/projects/samarinm/python-crash-course) and click "Launch" to run the notebooks without any installation!
 
@@ -12,12 +12,7 @@ Do you want to immediately dive into the course material? Check out [Renku lab](
 
 ## Updates
 
-* Friday, 27th February: Upload notebooks of first week.
-* Monday, 2nd March: Upload updated material after first course day.
-* Tuesday, 3rd March: Upload updated material after second course day.
-* Friday, 6th March: Upload notebooks of second week.
-* Monday, 9th March: Upload updated material after third course day.
-* Tuesday, 10th March: Upload updated material after last course day.
+* *Friday, 2nd October: Upload notebooks of first week.*
 
 ## Set up Python
 
