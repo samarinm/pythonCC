@@ -12,9 +12,10 @@ Do you want to immediately dive into the course material? Check out [Renku lab](
 
 ## Updates
 
-* Thursday, 1nd October: Upload notebooks of first week.
+* Thursday, 1st October: Upload notebooks of first week.
 * Monday, 5th October: Update notebooks and solutions of first day.
-* *Tuesday, 6th October: Update notebooks and solutions of second day.*
+* Tuesday, 6th October: Update notebooks and solutions of second day.
+* *Friday, 9th October: Upload notebooks of second week.*
 
 ## Set up Python
 
