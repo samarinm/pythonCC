@@ -17,7 +17,7 @@ Do you want to immediately dive into the course material? Check out [Renku lab](
 * Tuesday, 6th October: Update notebooks and solutions of second day.
 * Thursday, 8th October: Upload notebooks of second week.
 * Monday, 12th October: Update notebooks and solutions of third day.
-* *Tuesday, 13th October: Final upload of all course material.*
+* Tuesday, 13th October: Final upload of all course material.
 
 ## Set up Python
 
